@@ -8,7 +8,7 @@ spring:
     password: admin  
 #server:
 #  port: 8001
-  
+#3  
 eureka:
   client:
     service-url:
